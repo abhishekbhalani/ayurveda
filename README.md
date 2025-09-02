@@ -1,6 +1,6 @@
 # Ayurveda Daily Update
 
-Welcome to **Ayurveda Daily Update**! <img src="assets/img/ayurveda.png" alt="Ayurveda icon" width="50">
+<img src="assets/img/ayurveda.png" alt="Ayurveda icon" width="50"> Welcome to **Ayurveda Daily Update**! 
 
 
 This project delivers actionable Indian Ayurveda tips, tricks, and holistic guidance for modern daily living.  
